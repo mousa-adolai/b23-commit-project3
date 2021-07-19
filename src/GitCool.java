@@ -8,5 +8,7 @@ public class GitCool {
         String secrets = input.nextLine();
 
         System.out.println("HA HA HA now I will push your secrets to github");
+
+        System.out.println(secrets);
     }
 }
